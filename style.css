@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.w{
+    width: 1200px;
+    margin: 0 auto;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+#zse1{
+    width: 100%;
+    height: 750px;
+    background-color: rgb(149, 125, 255);
+}
+#d2{
+    width: 100%;
+    height: 100px;
+    padding:10px 0 ;
+}
+#d1{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0;
+}
+.plans{
+    width: 23%;
+    background-color: rgb(96, 71, 204);
+    height: 480px;
+    border-radius: 25px;
+    
+}
+.zd3{
+    width: 100%;
+    height: 150px;
+    /* background-color: blueviolet; */
+    /* border-radius: 0px 0px 35px 35px; */
+    background: rgba(0,0.2,0.4,0.3);
+    border-radius: 25px;
+}
+.zp1{
+    text-align: center;
+    color: #fff;
+    padding: 3px 0;
+   
+}
+#zh22{
+    color: #fff;
+    text-align: center;
+    padding: 25px 0;
+}
+.zd5{
+    padding: 50px 0;
+}
+.zsp1{
+    font-size: 35px;
+ 
+}
+.zsp2{
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 23px;
+}
+.zsp3{
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.zd6{
+    text-align: center;
+}
+.bt1{
+    padding: 17px 39px;
+    border-radius: 20px;
+    border: none;
+    border-radius: 25px;
+    border: none;
+}
+.a1{
+    text-decoration: none;
+    color:rgb(96, 71, 204); 
+    text-transform: uppercase;
+    font-weight: 600;
+}
+#plan1{
+    background-color: rgb(2, 184, 77);
+}
+#plan2{
+    background-color: rgb(234, 75, 255);
+}
+#plan3{
+    background-color: rgb(255, 138, 60);
+}
+#zh11{
+    text-align: center;
+    font-size: 45px;
+    color: #fff;
+    font-weight: 1500;
+    margin: 10px 0;
+}
+#zp2{
+    text-align: center;
+    color: #fff;
+}
+#a2{
+    color: rgb(2, 184, 77) ;
+}
+#a3{
+    color: rgb(234, 75, 255);
+}
+#a4{
+    color: rgb(255, 138, 60);
+}
